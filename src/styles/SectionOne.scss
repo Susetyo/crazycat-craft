@@ -1,0 +1,16 @@
+.section-one{
+  .player-wrapper {
+    // position: relative;
+    position: absolute;
+    padding-top: 56.25% /* Player ratio: 100 / (1280 / 720) */;
+    top:0;
+    left:0;
+    height: 100vh;
+  }
+  
+  .react-player {
+    position: absolute;
+    top: 0;
+    left: 0;
+  }
+}
