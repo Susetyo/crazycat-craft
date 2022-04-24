@@ -11,7 +11,7 @@ function SectionOne() {
           width={'100vw'}
           height={'100vh'}
           url='https://www.youtube.com/watch?v=E3DDRW-IASA&list=RDE3DDRW-IASA&start_radio=1&autoplay=1"' 
-          playing={true}
+          playing={false}
           stopOnUnmount={false}
           loop
           onReady={(obj)=>{
